@@ -4,6 +4,7 @@
 # Un-ignore the profile README and gitignore
 !/README.md
 !/.gitignore
+!/assets/
 
 # Un-ignore the OneDrive folder itself
 !/OneDrive/
